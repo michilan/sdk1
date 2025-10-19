@@ -187,6 +187,9 @@ FakesAssemblies/
 # Icon must ends with two \r.
 Icon
 
+
+# Frontend build artifacts
+frontend/dist/
 # Thumbnails
 ._*
 
